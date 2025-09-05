@@ -26,5 +26,5 @@ Para criar o recurso é necessário um plano na microsoft Azure nem que seja est
 ###### Finalmente analisando o sentimento de texto
 Fui testar com uma copypasta besta do twitter e funcionou!
 A copypasta em questão: "Fui dormir na casa da minha namorada ontem a noite. O pai dela não nos deixou dormir na mesma cama. E isso me deixou com muita raiva porque ele é realmente muito bonito"
-
-![Analise do texto](./Downloads/image(1).png)
+###### Analise do texto
+<img width="562" height="642" alt="image (1)" src="https://github.com/user-attachments/assets/bb7ba0ef-9894-4b4e-8826-c359593a6b26" />
