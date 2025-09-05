@@ -11,7 +11,10 @@ O meu nome é Yoshikage Kira, tenho 33 anos, moro na zona noroeste da cidade de 
 Texto gerado:
 Novamente. É só um teste, então vamos lá. Meu nome é Oscar niqueira. Tenho 33 anos, moro na zonas noroeste da cidade de morio. Não sou casado, sou empresário da loja de departamentos kameo e chego em casa todo dia por volta das 8:00. Não sou fumante e bebo socialmente. Eu deito todo dia às 11:00 e faço questão de dormir por 8 horas e não me importa o que aconteça, desde que eu possa tomar um copo de leite quente e me exercitar fazendo alongamentos por pelo menos 20 minutos antes de ir pra cama. Eu costumo ter um sono ininterrupto e acordo pela manhã sem o mínimo de cansaço ou estresse, como se fosse um bebezinho despreocupado. No meu último check-up de saúde, encontraram nenhum problema. Eu estou dizendo isso pra mostrar que sou uma pessoa tranquila e evita se envolver em encrencas ou criar inimizades. E tenho certeza que vivendo assim eu consigo ser feliz. 
 
-Obs:
+###### Print do texto gerado através de áudio
+<img width="1763" height="646" alt="image (2)" src="https://github.com/user-attachments/assets/8b322bb6-d14c-4308-9a7a-a7ed29baa2bf" />
+
+Observações:
 - Essa ferramenta é muito útil para legendar na hora vídeos ou registrar falas importantes de uma ligação etc.
 - O ruim é que provavelmente se paga um plano para áudios que são maiores que 1 minuto, na minha primeira tentativa o áudio foi cortado no meio quando comecei a ditar o texto do Yoshikage Kira
 
